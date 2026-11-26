@@ -1,0 +1,21 @@
+schema_version = "1.0.1"
+
+id = "ikfk_snapper"
+
+version = "1.0.1"
+
+name = "IK-FK_snapper"
+
+tagline = "Seamlessly snap FK controls to IK ,vice versa, function and control to deform bone"
+
+maintainer = "Henry Jiang <henryyjiang42@gmail.com>, upgrade helper Aira-Isla"
+
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+category = "Animation"
+
+tags = ["Animation", "Rigging"]
